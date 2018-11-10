@@ -31,7 +31,7 @@ public class Robot extends TimedRobot
 	// create instance of singelton Subsystems
 	private Dashboard _dashboard = Dashboard.getInstance();
 	
-	nstauhoeu
+	nstauhoe
 
 	//private Carriage _carriage = Carriage.getInstance();
 	private Chassis _chassis = Chassis.getInstance();
